@@ -1,6 +1,6 @@
 ballX = 0
 ballY = 0
-ballXspeed = 3
+ballXspeed = 2
 ballYspeed = 5
 ballradius = 5
 
